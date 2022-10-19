@@ -5,9 +5,15 @@
 
 int main()
 {
+コンプリクト
+    std::cout << "Hello ConflictBranch!\n";
+    std::cout << "Hello ConflictBranch!\n";
+    std::cout << "Hello ConflictBranch!\n";
+
     std::cout << "Hello World!\n";
     std::cout << "Hello NewBranch!\n";
     std::cout << "Hello MasterBranch!\n";
+ master
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
